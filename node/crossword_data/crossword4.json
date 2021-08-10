@@ -1,0 +1,84 @@
+{
+  "data": [
+    {
+      "clue": "Place previously known as Onathunaadu",
+      "answer": "Kayamkulam",
+      "position": 8,
+      "orientation": "across",
+      "startx": 15,
+      "starty": 9
+    },
+    {
+      "clue": ".Similar to Onam, X is celebrated in many parts of India such as Gujarat, Maharashtra and Karnataka in honour of return of Mahabali. In first day of which month is this celebration held ?",
+      "answer": "Kartika",
+      "position": 10,
+      "orientation": "across",
+      "startx": 4,
+      "starty": 14
+    },
+    {
+      "clue": "This bird sanctuary is named after the birdman of India",
+      "answer": "Thattekad",
+      "position": 5,
+      "orientation": "across",
+      "startx": 1,
+      "starty": 9
+    },
+    {
+      "clue": "King X commissioned the first construction of Y. Y is an integral part of the boat fiesta at punamada. Name the king",
+      "answer": "Devanarayana",
+      "position": 7,
+      "orientation": "down",
+      "startx": 17,
+      "starty": 1
+    },
+    {
+      "clue": "X belongs to magara. X means to pay heed to. Name X",
+      "answer": "Shravana",
+      "position": 9,
+      "orientation": "across",
+      "startx": 10,
+      "starty": 12
+    },
+    {
+      "clue": "This event which was conducted in the month of Maagha has a place in A New Account Of The East Indies",
+      "answer": "Mamankam",
+      "position": 6,
+      "orientation": "down",
+      "startx": 13,
+      "starty": 6
+    },
+    {
+      "clue": "<a target=\"_blank\" href=\"/hint.png\">Identify</a>",
+      "answer": "Onapottan",
+      "position": 1,
+      "orientation": "across",
+      "startx": 1,
+      "starty": 2
+    },
+    {
+      "clue": "----- velluthal onam karukum",
+      "answer": "Atham",
+      "position": 3,
+      "orientation": "across",
+      "startx": 7,
+      "starty": 5
+    },
+    {
+      "clue": "This art form symbolises the endless struggle between good and evil",
+      "answer": "Kadhakali",
+      "position": 4,
+      "orientation": "across",
+      "startx": 7,
+      "starty": 7
+    },
+    {
+      "clue": "Keralam ennu kettal thilakkannam chora njarambukalil",
+      "answer": "Sahityamanjari",
+      "position": 2,
+      "orientation": "down",
+      "startx": 8,
+      "starty": 1
+    }
+  ]
+}

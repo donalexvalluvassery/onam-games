@@ -1,0 +1,84 @@
+{
+    "data": [
+        {
+            "clue": "Pokkumoosapuram",
+            "answer": "Poovar",
+            "position": 6,
+            "orientation": "across",
+            "startx": 11,
+            "starty": 9
+        },
+        {
+            "clue": "Mistress Palace",
+            "answer": "VillaMaya",
+            "position": 3,
+            "orientation": "down",
+            "startx": 15,
+            "starty": 1
+        },
+        {
+            "clue": "This is the only temple in India worshipping Parashuram. Where exactly is it located?",
+            "answer": "Thiruvallam",
+            "position": 1,
+            "orientation": "across",
+            "startx": 7,
+            "starty": 3
+        },
+        {
+            "clue": "Emperor of the Arabian Sea",
+            "answer": "Vizhinjam",
+            "position": 4,
+            "orientation": "across",
+            "startx": 8,
+            "starty": 5
+        },
+        {
+            "clue": "Raja Ravi Varma, an acclaimed Indian painter was born here",
+            "answer": "Kilimanoor",
+            "position": 2,
+            "orientation": "down",
+            "startx": 9,
+            "starty": 2
+        },
+        {
+            "clue": "Which place was known as Harkwillia?",
+            "answer": "Kasaragod",
+            "position": 10,
+            "orientation": "across",
+            "startx": 1,
+            "starty": 14
+        },
+        {
+            "clue": "Laurie Baker + Coffee",
+            "answer": "Thampanoor",
+            "position": 8,
+            "orientation": "across",
+            "startx": 1,
+            "starty": 10
+        },
+        {
+            "clue": "Majestic tea estate set up by the British. Now used as a base camp",
+            "answer": "Bonacaud",
+            "position": 5,
+            "orientation": "across",
+            "startx": 6,
+            "starty": 7
+        },
+        {
+            "clue": "The lost port",
+            "answer": "Muziris",
+            "position": 9,
+            "orientation": "across",
+            "startx": 2,
+            "starty": 12
+        },
+        {
+            "clue": "x° x*4' x*4+2'' and (x*10-4)°(x*6+3)'(x*4)E, x is in When we all fall asleep, where do we go?",
+            "answer": "Thumba",
+            "position": 7,
+            "orientation": "down",
+            "startx": 2,
+            "starty": 9
+        }
+    ]
+}

@@ -1,0 +1,84 @@
+{
+    "data": [
+        {
+            "clue": "Only person to complete a Marathon under 2 hour",
+            "answer": "EliudKipchoge",
+            "position": 10,
+            "orientation": "across",
+            "startx": 4,
+            "starty": 16
+        },
+        {
+            "clue": "New sponsor of IPL",
+            "answer": "Dream11",
+            "position": 2,
+            "orientation": "down",
+            "startx": 2,
+            "starty": 4
+        },
+        {
+            "clue": "Stylistic adaptation of Kalarippayattu",
+            "answer": "Parichamuttukali",
+            "position": 4,
+            "orientation": "down",
+            "startx": 6,
+            "starty": 1
+        },
+        {
+            "clue": "\"It is my business to know what other people don't know\"",
+            "answer": "SherlockHolmes",
+            "position": 3,
+            "orientation": "down",
+            "startx": 4,
+            "starty": 4
+        },
+        {
+            "clue": "Insomnia cafe",
+            "answer": "Friends",
+            "position": 5,
+            "orientation": "down",
+            "startx": 8,
+            "starty": 4
+        },
+        {
+            "clue": "What is the name corona virus in the system devised by Carl Linnaeus",
+            "answer": "Orthocoronavirinae",
+            "position": 1,
+            "orientation": "across",
+            "startx": 1,
+            "starty": 5
+        },
+        {
+            "clue": "Go Yankees",
+            "answer": "Baseball",
+            "position": 7,
+            "orientation": "across",
+            "startx": 11,
+            "starty": 7
+        },
+        {
+            "clue": "Black Mamba",
+            "answer": "KobeBryant",
+            "position": 8,
+            "orientation": "across",
+            "startx": 10,
+            "starty": 10
+        },
+        {
+            "clue": "Ingenuity",
+            "answer": "MARS",
+            "position": 9,
+            "orientation": "across",
+            "startx": 12,
+            "starty": 12
+        },
+        {
+            "clue": "Cowards die many times before their deaths",
+            "answer": "JuliusCaesar",
+            "position": 6,
+            "orientation": "down",
+            "startx": 13,
+            "starty": 2
+        }
+    ]
+}

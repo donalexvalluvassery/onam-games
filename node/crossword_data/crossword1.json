@@ -1,0 +1,84 @@
+{
+    "data": [
+        {
+            "clue": "Ladies hostela, aviduthe wardena madhavankutty..",
+            "answer": "Hitler",
+            "position": 9,
+            "orientation": "down",
+            "startx": 16,
+            "starty": 9
+        },
+        {
+            "clue": "May be there is a glitch in it",
+            "answer": "Matrix",
+            "position": 8,
+            "orientation": "across",
+            "startx": 12,
+            "starty": 10
+        },
+        {
+            "clue": "just felt like running",
+            "answer": "ForrestGump",
+            "position": 2,
+            "orientation": "across",
+            "startx": 5,
+            "starty": 2
+        },
+        {
+            "clue": "The theme park on Isla Nublar",
+            "answer": "JurassicPark",
+            "position": 3,
+            "orientation": "down",
+            "startx": 13,
+            "starty": 1
+        },
+        {
+            "clue": "Avar oru case pinvalichu enn paranjal adhinu onnala orayiram artham und",
+            "answer": "Harikrishnans",
+            "position": 4,
+            "orientation": "across",
+            "startx": 3,
+            "starty": 4
+        },
+        {
+            "clue": "Don't use your memory. It's all a dream",
+            "answer": "Inception",
+            "position": 1,
+            "orientation": "down",
+            "startx": 1,
+            "starty": 3
+        },
+        {
+            "clue": "2 people boarded a train to Medigiri",
+            "answer": "vettam",
+            "position": 7,
+            "orientation": "across",
+            "startx": 3,
+            "starty": 10
+        },
+        {
+            "clue": "Since Marty (1955), this is the first Academy Award Best Picture winner movie in a 4:3 aspect ratio, after around half a century.",
+            "answer": "TheArtist",
+            "position": 5,
+            "orientation": "across",
+            "startx": 1,
+            "starty": 8
+        },
+        {
+            "clue": "Nera thirumeni, epachan pallikudathil poyittila",
+            "answer": "Lelam",
+            "position": 10,
+            "orientation": "across",
+            "startx": 4,
+            "starty": 12
+        },
+        {
+            "clue": "Oru bhagyasooktham, oru shathru samharam, oru jaladhaara, oru pin vilakk, oru mun vilakk. naalu pooruruttaathi, peru Unni,",
+            "answer": "Kochirajavu",
+            "position": 6,
+            "orientation": "down",
+            "startx": 7,
+            "starty": 4
+        }
+    ]
+}

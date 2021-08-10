@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Boat race!</title>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js"></script>
+
+        <!-- Latest compiled and minified CSS -->
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+
+        <!-- Optional theme -->
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">
+
+        <!-- Latest compiled and minified JavaScript -->
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+
+        <link rel="stylesheet" href="style.css">
+
+        <script src="jquery.crossword.js"></script>
+    	<script src="script.js"></script>
+
+        
+        <style>
+            .navbar {
+                background: transparent;
+                border: none;
+            }
+
+            #logoTop {
+                height: 120%;
+                filter: brightness(1000%);
+            }
+           
+            #logo {
+                width: 100px; 
+                position: absolute;
+                /*left: 300px;*/
+            }
+
+            .boat {
+                max-width:100%;
+                max-height:100%;
+            }
+        </style>
+    </head>
+
+    <body>
+
+        <nav class="navbar navbar-inverse navbar-fixed-top">
+            <div class="container">
+                <div class="navbar-header">
+                    <a class="navbar-brand" href="#">
+                        <img alt="AarpoO @ Home" id="logoTop" src="logo.png">
+                    </a>                    
+                </div>
+                <ul class="nav navbar-nav navbar-right">
+                    <li>
+                        <a href="#">About</a>
+                    </li>
+                </ul>
+            </div>
+        </nav>
+
+        <section id="scoreboard">
+            <div class="wave wave1"></div>
+            <div class="wave wave2"></div>
+            <div class="wave wave3"></div>
+            <div class="wave wave4"></div>
+
+            <div class="boat1">
+                <img class="boat" alt="Red Team" src="RedTeam.png">
+            </div>
+            <div class="boat2">
+                <img class="boat" alt="Red Team" src="YellowTeam.png">
+            </div>
+            <div class="boat3">
+                <img class="boat" alt="Red Team" src="BlackTeam.png">
+            </div>
+            <div class="boat4">
+                <img class="boat" alt="Red Team" src="WhiteTeam.png">
+            </div>
+
+            <div class="banner banner1"><h1 class="bannerHeading bannerHeading1"></h1></div>
+            <div class="banner banner2"><h1 class="bannerHeading bannerHeading2"></h1></div>
+            <div class="banner banner3"><h1 class="bannerHeading bannerHeading3"></h1></div>
+            <div class="banner banner4"><h1 class="bannerHeading bannerHeading4"></h1></div>
+        </section>
+
+        <section id="crosswordSection">
+            <div id="puzzle-container">
+                <div id="puzzle-wrapper"></div>
+            </div>
+        </section >
+
+        <script src="index.js"></script>
+        
+    </body>
+    </html>
